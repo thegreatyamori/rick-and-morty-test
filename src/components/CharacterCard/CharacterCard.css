@@ -1,0 +1,15 @@
+.character-card {
+    border: 2px solid black;
+    margin: 10px 15px;
+    display: flex;
+    flex-direction: column;
+}
+.character-content {
+    padding-left: 15px;
+}
+.status-chip {
+    background-color: royalblue;
+    padding: 3px 5px;
+    color: aliceblue;
+    border-radius: 20%;
+}
